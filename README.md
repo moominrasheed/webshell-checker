@@ -11,3 +11,7 @@ Here's how to use the script:
 6. When the script is finished, you can open "done.txt" to see a list of all the URLs that were flagged as containing suspicious content.
 
 Note that the script requires the "curl" command-line tool to be installed on your system in order to make HTTP requests to the URLs. If you don't already have curl installed, you can install it using your operating system's package manager (e.g. sudo apt-get install curl on Ubuntu).
+
+
+# For educational purposes only.
+![alt text](https://raw.githubusercontent.com/moominrasheed/webshell-checker/main/demo.png)
